@@ -15,9 +15,12 @@ python3 main.py
 para elegir un pais necesitas seguir las siguientes instrucciones
 
 ```sh
-entra a la carpeta app
 
+git clone
+entra a la carpeta app
 cd app 
+activa el entorno virtual
+pip3 install -r requirements.txt
 
 python3 graf_pie.py
 y ejecutalo en la terminal
